@@ -1,7 +1,7 @@
 {
   'variables': {
     'v8_use_snapshot%': 'true',
-    'node_use_dtrace%': 'false',
+    'node_use_dtrace%': 'true',
     'node_use_etw%': 'false',
     'node_use_perfctr%': 'false',
     'node_has_winsdk%': 'false',
